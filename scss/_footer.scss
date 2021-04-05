@@ -1,0 +1,113 @@
+
+.footer{
+     &__left{
+          border: 1px solid #fff;
+          margin-right: 10px;
+     }
+     &__left--active,
+     &__right--active,
+     &__right,
+     &__left{
+          border: 1px solid #fff;
+     }
+     &__info{
+          margin-left: 10px;
+     }
+     &__item{
+          display: flex;
+          border-bottom: 1px solid rgba(194, 186, 186, 0.2);
+          padding: 15px;
+     }
+     &__date{
+          display: flex;
+          flex-wrap: wrap;
+          flex-direction: column;
+          margin-left: 10px;
+     }
+     &__button{
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+     }
+     &__data{
+          font-family: 'Bison';
+          font-style: normal;
+          font-weight: bold;
+          font-size: 25px;
+          line-height: 30px;
+          color: #73F9BC;
+          margin-bottom: 10px;
+     }
+     &__data-bottom{
+          margin: 10px 10px 43px;
+          font-family: 'Bison';
+          font-style: normal;
+          font-weight: bold;
+          font-size: 25px;
+          line-height: 30px;
+          color: #73F9BC;
+         
+     }
+     &__man-name{
+          font-family: $font-Jost;
+          font-style: normal;
+          font-weight: bold;
+          font-size: 20px;
+          line-height: 29px;
+          color: #FFFFFF;
+          margin-bottom: 10px;
+     }
+     &__man-description{
+          font-family:$font-Jost;
+          font-style: normal;
+          font-weight: bold;
+          font-size: 19px;
+          line-height: 27px;
+          color: #FFFFFF;
+     }
+     &__button-left , 
+     &__button-right{
+          font-family: 'Bison';
+          font-style: normal;
+          font-weight: bold;
+          font-size: 18px;
+          line-height: 21px;
+          color: #fff;
+          background-color: black;
+          outline: none;
+          border: 2px solid #ffff;
+          padding: 6px 8px;
+          margin-left: 5px;
+          margin-top: 10px;
+          &:hover{
+               color: #fff;
+               background-color: $green;
+               cursor: pointer;
+          }
+     }
+     &__title{
+          font-family: $font-Jost;
+          font-style: normal;
+          font-weight: 900;
+          font-size: 35px;
+          line-height: 51px;
+          color: #171716;
+          background-color: $green;
+          text-align: center;
+     }
+     &__img{
+          width: 150px;
+          height: 150px;
+          margin:23px 30px;
+     }
+     &__text{
+          font-family: $font-Jost;
+          font-style: normal;
+          font-weight: bold;
+          font-size: 25px;
+          line-height: 36px;
+          color: #FFFFFF;
+          margin-left: 150px;
+     }
+    
+}
