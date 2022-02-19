@@ -59,57 +59,33 @@ const Build = () => (
                         </div>
                         <div className="item">
                             <div className="build-box">
-                                <h3 className="build-head text-white"><span className="theme-color">Let’s </span>Build Something
-                                Great. Together</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-                                    has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <h3 className="build-head text-white"><span className="theme-color">Разработка </span> сайтов в Бишкеке</h3>
+                                <p>Наша команда состоит из настоящих профессионалов своего дела. Дизайнеры создают супер-макеты, верстальщики превращают рисунки в код, программисты помогают сделать сайт живым, уникальным и на 100% рабочим, а менеджеры и копирайтеры наносят завершающие и важные штрихи в адаптации сайта в интернете</p>
                                 <ul>
-                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />We provide free initial
-                                        consultation
-                                        and support.
-                                </li>
-                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />We work with some of the
-                                        most
-                                        successful businesses
-                                </li>
-                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />We Are Entrepreneurs &
-                                        Innovators of
-                                        Website Building
-                                </li>
-                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />We’d love to hear from you
-                                        to
-                                        discuss
-                                        web design.
-                                </li>
+                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />профессиональная вебразработка сайтов ПОД КЛЮЧ
+                                    </li>
+                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />индивидуальный подход к каждому клиенту, построение концепции проекта с учетом воронки продаж
+                                    </li>
+                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />уникальный дизайн для каждого сайта, полноценное наполнение контентом и загрузка удобной CMS
+                                    </li>
+                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" /> создаем Сайты для Бизнеса, Landing Page, Интернет-Магазины и другие проекты всего от 17 000 сомов
+                                    </li>
                                 </ul>
                             </div>
                         </div>
                         <div className="item">
                             <div className="build-box">
-                                <h3 className="build-head text-white"><span className="theme-color">Let’s </span>Build Something
-                                Great. Together</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-                                    has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <h3 className="build-head text-white"><span className="theme-color">Разработка </span> сайтов в Бишкеке</h3>
+                                <p>Наша команда состоит из настоящих профессионалов своего дела. Дизайнеры создают супер-макеты, верстальщики превращают рисунки в код, программисты помогают сделать сайт живым, уникальным и на 100% рабочим, а менеджеры и копирайтеры наносят завершающие и важные штрихи в адаптации сайта в интернете</p>
                                 <ul>
-                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />We provide free initial
-                                        consultation
-                                        and support.
-                                </li>
-                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />We work with some of the
-                                        most
-                                        successful businesses
-                                </li>
-                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />We Are Entrepreneurs &
-                                        Innovators of
-                                        Website Building
-                                </li>
-                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />We’d love to hear from you
-                                        to
-                                        discuss
-                                        web design.
-                                </li>
+                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />профессиональная вебразработка сайтов ПОД КЛЮЧ
+                                    </li>
+                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />индивидуальный подход к каждому клиенту, построение концепции проекта с учетом воронки продаж
+                                    </li>
+                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" />уникальный дизайн для каждого сайта, полноценное наполнение контентом и загрузка удобной CMS
+                                    </li>
+                                    <li><img alt="icon" src="/assets/images/saas1/build-.png" /> создаем Сайты для Бизнеса, Landing Page, Интернет-Магазины и другие проекты всего от 17 000 сомов
+                                    </li>
                                 </ul>
                             </div>
                         </div>
