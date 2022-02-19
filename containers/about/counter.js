@@ -1,6 +1,6 @@
 import React from 'react';
 import CountUp from 'react-countup';
-import { CounterData } from '../../../database/pages/aboutus/database';
+import { CounterData } from '../../database/pages/aboutus/database';
 import { Container, Row, Col } from 'reactstrap'
 const Counter = () => (
     <section className="resume counter bg-pink">

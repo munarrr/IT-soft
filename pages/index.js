@@ -3,17 +3,17 @@ import Head from 'next/head'
 
 // import Custom Components
 import Header from '../containers/common/header'
-import BannerSection from './layouts/sections/modern-sass/banner'
-import FeatureSection from './layouts/sections/modern-sass/feature'
-import BuildSection from './layouts/sections/modern-sass/build'
-import WorkSection from './layouts/sections/modern-sass/work'
-import PriceSection from './layouts/sections/modern-sass/price'
-import TestimonialSection from './layouts/sections/modern-sass/testimonial'
-import SubscribeSection from './layouts/sections/modern-sass/subscribe'
-import FaqSection from './layouts/sections/modern-sass/faq'
-import ClientSection from './layouts/sections/modern-sass/client'
-import FooterSection from './layouts/sections/modern-sass/footer'
-import Copyright from './layouts/sections/modern-sass/copyright'
+import BannerSection from '../components/banner'
+import FeatureSection from '../components/feature'
+import BuildSection from '../components/build'
+import WorkSection from '../components/work'
+import PriceSection from '../components/price'
+import TestimonialSection from '../components/testimonial'
+import SubscribeSection from '../components/subscribe'
+import FaqSection from '../components/faq'
+import ClientSection from '../components/client'
+import FooterSection from '../components/footer'
+import Copyright from '../components/copyright'
 
 const ModernSass = () => {
 

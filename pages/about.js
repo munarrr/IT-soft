@@ -2,10 +2,10 @@ import React from 'react'
 
 // import Custom Components
 import Layout from '../containers/common/common-layout'
-import AbouSection from './page/about-us/about'
-import TestimonialSection from './page/about-us/testimonial'
-import SpeakerSection from './page/about-us/speaker'
-import CounterSection from './page/about-us/counter'
+import AbouSection from '../containers/about/about'
+import TestimonialSection from '../containers/about/testimonial'
+import SpeakerSection from '../containers/about/speaker'
+import CounterSection from '../containers/about/counter'
 import Faq from './layouts/sections/modern-sass/faq'
 
 const AboutUs = () => (
